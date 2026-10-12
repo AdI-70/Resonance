@@ -1,6 +1,6 @@
 # AI-Generated Voice Detection API
 
-A FastAPI-based REST API that detects whether a voice sample is AI-generated or human-spoken. Supports multiple languages including Tamil, English, Hindi, Malayalam, and Telugu.
+A FastAPI-based REST API that detects whether a voice sample is AI-generated or human-spoken. Supports English & Hindi.
 
 ## 🚀 Features
 
