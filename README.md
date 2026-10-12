@@ -4,7 +4,7 @@ A FastAPI-based REST API that detects whether a voice sample is AI-generated or 
 
 ## 🚀 Features
 
-- **Multi-language Support**: Tamil, English, Hindi, Malayalam, Telugu
+- **Language Support**: English, Hindi
 - **Base64 Audio Input**: Easy integration with web/mobile apps
 - **Advanced Feature Extraction**: MFCC, spectral, temporal features
 - **REST API**: Simple HTTP endpoints
@@ -122,11 +122,8 @@ Content-Type: application/json
 ```
 
 ### Supported Languages
-- Tamil
 - English
 - Hindi
-- Malayalam
-- Telugu
 
 ## 🧪 Testing
 
